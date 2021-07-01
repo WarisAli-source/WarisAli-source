@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waris Ali</h1>
 <h3 align="center">A passionate Frontend Developer and Software Developer from India</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **DSA And Reactjs**
 
 - 🌱 I’m currently learning **Reactjs**
 
