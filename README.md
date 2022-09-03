@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waris Ali</h1>
-<h3 align="center">A passionate Frontend Developer and Software Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer and Associate Software Engineer working in CDK GLOBAL </h3>
 
-- 🔭 I’m currently working on **DSA And Reactjs**
+- 🔭 I’m currently working on **DSA And Java**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://warisali-source.github.io/myportfolio.github.io/](https://warisali-source.github.io/myportfolio.github.io/)
 
