@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waris Ali</h1>
-<h3 align="center">A passionate Fullstack Developer and Associate Software Engineer working in CDK GLOBAL </h3>
+<h3 align="center">A passionate Fullstack Developer and Java Engineer working in Calibo </h3>
 
 
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **warissid41@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/11TFoQOEWbm1bPpgAC3vSpo4aE1k-8WAZ/view?usp=sharing
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think I am Funny**
 
