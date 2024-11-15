@@ -3,9 +3,8 @@
 
 
 
-- 🌱 I’m currently working on techstack  **Java and Springboot**
+- 🌱 I’m currently working on techstack  **Core Java,Springboot,JSP,Angular**
 
-- 👨‍💻 All of my projects are available at [https://warisali-source.github.io/myportfolio.github.io/](https://warisali-source.github.io/myportfolio.github.io/)
 
 - 📫 How to reach me **warissid41@gmail.com**
 
